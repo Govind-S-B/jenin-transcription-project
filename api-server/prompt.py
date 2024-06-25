@@ -9,4 +9,8 @@ Your summary should capture the main points and key information from the text. A
 
 The answer should be in the following format:
 {{"summary": "Your Summary"}}
+
+
+If the text is uncomprehendable, return the following:
+{{"summary": "Uncomprehendable"}}
 """
